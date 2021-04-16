@@ -1,0 +1,16 @@
+[
+  {
+    "label": "op.gg",
+    "value": "op.gg"
+  },
+  {
+    "label": "murderbridge.com",
+    "value": "murderbridge",
+    "isAram": true
+  },
+  {
+    "label": "op.gg-aram",
+    "value": "op.gg-aram",
+    "isAram": true
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "name": "@champ-r/source-list",
+  "version": "1.0.0",
+  "main": "index.json",
+  "author": "al",
+  "license": "MIT",
+  "private": false
+}
