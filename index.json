@@ -12,5 +12,14 @@
     "label": "op.gg-aram",
     "value": "op.gg-aram",
     "isAram": true
+  },
+  {
+    "label": "lolalytics.com",
+    "value": "lolalytics"
+  },
+  {
+    "label": "lolalytics.com-aram",
+    "value": "lolalytics-aram",
+    "isAram": true
   }
 ]
