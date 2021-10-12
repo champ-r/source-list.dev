@@ -4,14 +4,14 @@
     "value": "op.gg"
   },
   {
-    "label": "murderbridge.com",
-    "value": "murderbridge",
-    "isAram": true
-  },
-  {
     "label": "op.gg-aram",
     "value": "op.gg-aram",
     "isAram": true
+  },
+  {
+    "label": "op.gg-urf",
+    "value": "op.gg-urf",
+    "isURF": true
   },
   {
     "label": "lolalytics.com",
@@ -20,6 +20,11 @@
   {
     "label": "lolalytics.com-aram",
     "value": "lolalytics-aram",
+    "isAram": true
+  },
+  {
+    "label": "murderbridge.com",
+    "value": "murderbridge",
     "isAram": true
   }
 ]
