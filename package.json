@@ -1,8 +1,47 @@
 {
   "name": "@champ-r/source-list.dev",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.json",
   "author": "al",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "sources": [
+    {
+      "label": "op.gg",
+      "value": "op.gg"
+    },
+    {
+      "label": "op.gg-aram",
+      "value": "op.gg-aram",
+      "isAram": true
+    },
+    {
+      "label": "op.gg-urf",
+      "value": "op.gg-urf",
+      "isURF": true
+    },
+    {
+      "label": "lolalytics.com",
+      "value": "lolalytics"
+    },
+    {
+      "label": "lolalytics.com-aram",
+      "value": "lolalytics-aram",
+      "isAram": true
+    },
+    {
+      "label": "murderbridge.com",
+      "value": "murderbridge",
+      "isAram": true
+    },
+    {
+      "label": "u.gg",
+      "value": "u.gg"
+    },
+    {
+      "label": "u.gg-aram",
+      "value": "u.gg-aram",
+      "isAram": true
+    }
+  ]
 }
