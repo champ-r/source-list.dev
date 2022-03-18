@@ -42,6 +42,15 @@
       "label": "u.gg-aram",
       "value": "u.gg-aram",
       "isAram": true
+    },
+    {
+      "label": "champion.gg",
+      "value": "champion.gg"
+    },
+    {
+      "label": "champion.gg-aram",
+      "value": "champion.gg-aram",
+      "isAram": true
     }
   ]
 }
