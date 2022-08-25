@@ -8,48 +8,48 @@
   "sources": [
     {
       "label": "op.gg",
-      "value": "op.gg"
+      "value": "op.gg.test"
     },
     {
       "label": "op.gg-aram",
-      "value": "op.gg-aram",
+      "value": "op.gg-aram.test",
       "isAram": true
     },
     {
       "label": "op.gg-urf",
-      "value": "op.gg-urf",
+      "value": "op.gg-urf.test",
       "isURF": true
     },
     {
       "label": "lolalytics.com",
-      "value": "lolalytics"
+      "value": "lolalytics.test"
     },
     {
       "label": "lolalytics.com-aram",
-      "value": "lolalytics-aram",
+      "value": "lolalytics-aram.test",
       "isAram": true
     },
     {
       "label": "murderbridge.com",
-      "value": "murderbridge",
+      "value": "murderbridge.test",
       "isAram": true
     },
     {
       "label": "u.gg",
-      "value": "u.gg"
+      "value": "u.gg.test"
     },
     {
       "label": "u.gg-aram",
-      "value": "u.gg-aram",
+      "value": "u.gg-aram.test",
       "isAram": true
     },
     {
       "label": "champion.gg",
-      "value": "champion.gg"
+      "value": "champion.gg.test"
     },
     {
       "label": "champion.gg-aram",
-      "value": "champion.gg-aram",
+      "value": "champion.gg-aram.test",
       "isAram": true
     }
   ]
